@@ -1,4 +1,5 @@
 # ToolSystem
+可以持续更新动态IP
 ### 1.将ToolApi项目部署在固定外网IP的服务器webAPI站点。
 ### 2.在动态外网IP的客户端运行IpConsole控制台程序。
 ### 3.输入ToolApi的更新UpdateIP地址的接口及url参数客户端名称name。
